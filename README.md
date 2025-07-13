@@ -25,12 +25,5 @@ A responsive website that introduces the core concepts of front-end development.
 
 Ahmed Tamer  
 [GitHub Profile](https://github.com/ahmedtamerali)  
-[Email](mailto:ahmedtamerali50@gmail.com)
-[linkedin](www.linkedin.com/in/ahmed-tamer-ali)
-
-## 📢 Feedback or Contributions
-
-Open an issue or pull request. Feedback is welcome.
-
----
-
+[Email](mailto:ahmedtamerali50@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/ahmed-tamer-ali)
